@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SQL_QLKS3ModelStoreContainer" CdmEntityContainer="QLKS">
+    <EntitySetMapping Name="CHITIEUx">
+      <EntityTypeMapping TypeName="SQL_QLKS3Model.CHITIEU">
+        <MappingFragment StoreEntitySet="CHITIEU">
+          <ScalarProperty Name="MACHITIEU" ColumnName="MACHITIEU" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+          <ScalarProperty Name="GIA" ColumnName="GIA" />
+          <ScalarProperty Name="NGAY" ColumnName="NGAY" />
+          <ScalarProperty Name="GHICHU" ColumnName="GHICHU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOADONs">
+      <EntityTypeMapping TypeName="SQL_QLKS3Model.HOADON">
+        <MappingFragment StoreEntitySet="HOADON">
+          <ScalarProperty Name="MAHOADON" ColumnName="MAHOADON" />
+          <ScalarProperty Name="MAPHIEUDANGKY" ColumnName="MAPHIEUDANGKY" />
+          <ScalarProperty Name="NGAYTHANHTOAN" ColumnName="NGAYTHANHTOAN" />
+          <ScalarProperty Name="TONGTIEN" ColumnName="TONGTIEN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHACHHANGs">
+      <EntityTypeMapping TypeName="SQL_QLKS3Model.KHACHHANG">
+        <MappingFragment StoreEntitySet="KHACHHANG">
+          <ScalarProperty Name="MAKHACHHANG" ColumnName="MAKHACHHANG" />
+          <ScalarProperty Name="TENKHACHHANG" ColumnName="TENKHACHHANG" />
+          <ScalarProperty Name="GIOITINH" ColumnName="GIOITINH" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAIDICHVUs">
+      <EntityTypeMapping TypeName="SQL_QLKS3Model.LOAIDICHVU">
+        <MappingFragment StoreEntitySet="LOAIDICHVU">
+          <ScalarProperty Name="MALOAIDICHVU" ColumnName="MALOAIDICHVU" />
+          <ScalarProperty Name="TENLOAIDICHVU" ColumnName="TENLOAIDICHVU" />
+          <ScalarProperty Name="GIALOAIDICHVU" ColumnName="GIALOAIDICHVU" />
+          <ScalarProperty Name="MAHOADON" ColumnName="MAHOADON" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAIPHONGs">
+      <EntityTypeMapping TypeName="SQL_QLKS3Model.LOAIPHONG">
+        <MappingFragment StoreEntitySet="LOAIPHONG">
+          <ScalarProperty Name="MALOAIPHONG" ColumnName="MALOAIPHONG" />
+          <ScalarProperty Name="GIAPHONG" ColumnName="GIAPHONG" />
+          <ScalarProperty Name="TENLOAIPHONG" ColumnName="TENLOAIPHONG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHANVIENs">
+      <EntityTypeMapping TypeName="SQL_QLKS3Model.NHANVIEN">
+        <MappingFragment StoreEntitySet="NHANVIEN">
+          <ScalarProperty Name="MANHANVIEN" ColumnName="MANHANVIEN" />
+          <ScalarProperty Name="CHUCVU" ColumnName="CHUCVU" />
+          <ScalarProperty Name="TENNHANVIEN" ColumnName="TENNHANVIEN" />
+          <ScalarProperty Name="GIOITINH" ColumnName="GIOITINH" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHIEUDANGKies">
+      <EntityTypeMapping TypeName="SQL_QLKS3Model.PHIEUDANGKY">
+        <MappingFragment StoreEntitySet="PHIEUDANGKY">
+          <ScalarProperty Name="MAPHIEUDANGKY" ColumnName="MAPHIEUDANGKY" />
+          <ScalarProperty Name="MAKHACHHANG" ColumnName="MAKHACHHANG" />
+          <ScalarProperty Name="MANHANVIEN" ColumnName="MANHANVIEN" />
+          <ScalarProperty Name="MAPHONG" ColumnName="MAPHONG" />
+          <ScalarProperty Name="NGAYDANGKY" ColumnName="NGAYDANGKY" />
+          <ScalarProperty Name="NGAYNHANPHONG" ColumnName="NGAYNHANPHONG" />
+          <ScalarProperty Name="NGAYTRAPHONG" ColumnName="NGAYTRAPHONG" />
+          <ScalarProperty Name="TIENCOC" ColumnName="TIENCOC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHIEUDICHVUs">
+      <EntityTypeMapping TypeName="SQL_QLKS3Model.PHIEUDICHVU">
+        <MappingFragment StoreEntitySet="PHIEUDICHVU">
+          <ScalarProperty Name="MAPHIEUDICHVU" ColumnName="MAPHIEUDICHVU" />
+          <ScalarProperty Name="MALOAIDICHVU" ColumnName="MALOAIDICHVU" />
+          <ScalarProperty Name="MAHOADON" ColumnName="MAHOADON" />
+          <ScalarProperty Name="SOLUONG" ColumnName="SOLUONG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHONGs">
+      <EntityTypeMapping TypeName="SQL_QLKS3Model.PHONG">
+        <MappingFragment StoreEntitySet="PHONG">
+          <ScalarProperty Name="MAPHONG" ColumnName="MAPHONG" />
+          <ScalarProperty Name="MALOAIPHONG" ColumnName="MALOAIPHONG" />
+          <ScalarProperty Name="TINHTRANG" ColumnName="TINHTRANG" />
+          <ScalarProperty Name="SOPHONG" ColumnName="SOPHONG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

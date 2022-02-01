@@ -1,0 +1,698 @@
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.QuanLyNhanVien.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.DanhSach_KH.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.PhongKhachSan.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_NV.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_P.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.DanhSach_DV.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.Them_DK.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.Them_ND.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.Them_NV.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.TimKiem_DK.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.TimKiem_NV.resources
+C:\Users\Admin\source\repos\DoAn\QLKS\QLKS\obj\Debug\QLKS.TimKiem_P.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_NV.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_P.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.DanhSach_DV.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.DanhSach_KH.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.PhongKhachSan.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.QuanLyDangKy.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.QuanLyNhanVien.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.Them_DK.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.Them_ND.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.Them_NV.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.TimKiem_DK.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.TimKiem_NV.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.TimKiem_P.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.TrangChu.resources
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\dotnet\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_NV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_P.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.DanhSach_DV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.DanhSach_KH.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.PhongKhachSan.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.QuanLyNhanVien.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.Them_DK.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.Them_ND.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.Them_NV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.TimKiem_DK.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.TimKiem_NV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.TimKiem_P.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\DoAn\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_NV.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_P.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.DanhSach_DV.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.DanhSach_KH.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.PhongKhachSan.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.QuanLyNhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.Them_DK.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.Them_ND.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.Them_NV.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.TimKiem_DK.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.TimKiem_NV.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.TimKiem_P.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\QLKS\QLKS\obj\Debug\QLKS.Them_P.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_NV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_P.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.DanhSach_DV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.DanhSach_KH.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.PhongKhachSan.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.QuanLyNhanVien.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.Them_DK.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.Them_ND.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.Them_NV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.Them_P.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.TimKiem_DK.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.TimKiem_NV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.TimKiem_P.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.PhongDaNhan.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.ChinhSua_DV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.QuanLyDichVu.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.Them_DV.resources
+C:\Users\Admin\source\repos\DoAn\DoAn1\QLKS\QLKS\obj\Debug\QLKS.TimKiem_DV.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.Them_ND.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\test_27_4_11h\QLKS\QLKS\obj\Debug\QLKS.QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\test_8_8_10h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\5. test_9_5_23h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\6.test_23_5_10h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\8.test_31_5_21h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\9.test_1_6_15h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\11.test_2_6_1h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\12.test_2_6_11h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\13.test_3_6_19h30\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\14.test_4_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\15.test_5_6_7h\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\16.test_5_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_DoanhThu.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\17.test_7_6_18h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_DoanhThu.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\18.test_8_6_22h30\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DoanhThu.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\19.test_9_6_20h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_DoanhThu.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\20.test_9_6_21h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyChiTieu.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_DoanhThu.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyChiTieu.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\21.test_10_6_0h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DoanhThu.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyChiTieu.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_DoiMatKhau.resources
+C:\Users\Admin\source\repos\DoAn\test\22.test_11_6_1h30\QLKS\QLKS\obj\Debug\QLKS.Form_ThongTinTaiKhoan.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_DoanhThu.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_DoiMatKhau.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyChiTieu.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyNhanPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_ThongTinTaiKhoan.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\23.test_12_6 15h\QLKS\QLKS\obj\Debug\QLKS.Form2.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_DoanhThu.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_DoiMatKhau.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyChiTieu.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_ThongTinTaiKhoan.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\source\repos\DoAn\test\25.test_18_6 16h\QLKS\QLKS\obj\Debug\QLKS.Form_LichDatPhong.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\bin\Debug\QLKS.exe.config
+E:\Nam2Ki2\DoAn\QLKS\QLKS\bin\Debug\QLKS.exe
+E:\Nam2Ki2\DoAn\QLKS\QLKS\bin\Debug\QLKS.pdb
+E:\Nam2Ki2\DoAn\QLKS\QLKS\bin\Debug\EntityFramework.dll
+E:\Nam2Ki2\DoAn\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nam2Ki2\DoAn\QLKS\QLKS\bin\Debug\EntityFramework.xml
+E:\Nam2Ki2\DoAn\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_ChiTietHoaDon.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachHoaDon.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_DoanhThu.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_DoiMatKhau.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_LichDatPhong.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyChiTieu.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyDangKy.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_DangNhap.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_KhachHang.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_DatPhong.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_DanhSachPhong.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_QuanLyPhong.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_ThanhToan.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_ThongTinTaiKhoan.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_TrangChu.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_DichVu.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.Form_NhanVien.resources
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.exe
+E:\Nam2Ki2\DoAn\QLKS\QLKS\obj\Debug\QLKS.pdb
